@@ -1,0 +1,22 @@
+.item{
+    color:azure;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.price{
+    color: #8d93ab;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.symbol{
+    margin-bottom: 0;
+    text-align: left;
+}
+.name{
+    text-align: left;
+}
